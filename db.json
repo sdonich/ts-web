@@ -22,8 +22,8 @@
     },
     {
       "id": 5,
-      "age": 100,
-      "name": "newUser1"
+      "name": "newer name",
+      "age": 999
     },
     {
       "name": "newUser1",
