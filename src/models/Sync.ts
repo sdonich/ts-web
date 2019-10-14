@@ -1,10 +1,10 @@
 import axios, { AxiosPromise } from 'axios';
 
-interface HaId {
-  id: number;
+interface HasId {
+  id?: number;
 }
 
-export class Sync<T extends HaId> {
+export class Sync<T extends HasId> {
   constructor(public rootUrl: string) {
 
   }
