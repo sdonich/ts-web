@@ -1,59 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "chagedName",
-      "age": 300
-    },
-    {
-      "name": "myname",
-      "age": 20,
-      "id": 2
-    },
-    {
-      "id": 3,
-      "name": "newName",
-      "age": 20
-    },
-    {
-      "name": "newRecord",
-      "age": 0,
-      "id": 4
-    },
-    {
-      "id": 5,
-      "name": "newer name",
-      "age": 999
-    },
-    {
-      "name": "newUser1",
-      "age": 17,
-      "id": 6
-    },
-    {
-      "name": "newUser1",
-      "age": 17,
-      "id": 7
-    },
-    {
-      "name": "newUser1",
-      "age": 17,
-      "id": 8
-    },
-    {
-      "name": "newUser1",
-      "age": 17,
-      "id": 9
-    },
-    {
-      "name": "newUser1",
-      "age": 17,
-      "id": 10
-    },
-    {
-      "name": "newUser1",
-      "age": 17,
-      "id": 11
+      "name": "John",
+      "age": 200,
+      "id": 12
     }
   ]
 }
