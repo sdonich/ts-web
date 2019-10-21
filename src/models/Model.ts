@@ -53,7 +53,7 @@ export class Model<T extends HasId> {
 
   save(): void {
     this.sync.save(this.attributes.getAll())
-      .then((response: AxiosResponse): void => {
+      .then((_response: AxiosResponse): void => {
         this.trigger('save');
       })
       .catch(() => {
